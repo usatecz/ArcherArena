@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"C:/Unreal/ArcherArena/ArcherArena/.vscode": true,
+		"C:/Unreal/ArcherArena/ArcherArena/Content": true,
+		"C:/Unreal/ArcherArena/ArcherArena/Intermediate": true
+	}
+}
